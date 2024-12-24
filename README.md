@@ -1,7 +1,6 @@
 # **GenT-Note**  
 
-**GenT-Note** is a tool designed to:  
-- Generate a **Transition Probability Matrix (TPM)** from a given raga note sequence.  
+**GenT-Note** is a tool designed to:   
 - Generate a **note sequence** from a provided TPM.  
 
 ### **File Format**  
