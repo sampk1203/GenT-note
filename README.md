@@ -24,3 +24,5 @@ Run the following command in MATLAB:
 
 ```matlab
 gentpm
+```
+The note sequence needs to be provided within the MATLAB code itself.
