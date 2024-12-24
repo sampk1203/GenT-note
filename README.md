@@ -26,3 +26,6 @@ Run the following command in MATLAB:
 gentpm
 ```
 The note sequence needs to be provided within the MATLAB code itself.
+
+
+Supplementary MATLAB visualization scripts are included to enhance the interpretation and analysis of the generated Transition Probability Matrix (TPM).
