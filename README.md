@@ -1,8 +1,14 @@
-# GenT-Note
-Code to generate a Transition Probability Matrix (TPM) from a given raga note sequence and to generate a note sequence from a given TPM.
+# **GenT-Note**  
 
-The sample TPM files are those with .tpm extention.
+**GenT-Note** is a tool designed to:  
+- Generate a **Transition Probability Matrix (TPM)** from a given raga note sequence.  
+- Generate a **note sequence** from a provided TPM.  
 
-Usage of GenT-Note is as:
+### **File Format**  
+Sample TPM files are provided with the `.tpm` extension.  
 
-python3 GenT-Note.py <tpm file as csv>
+### **Usage**  
+To run **GenT-Note**, use the following command:  
+
+```bash
+python3 GenT-Note.py <tpm_file.csv>
